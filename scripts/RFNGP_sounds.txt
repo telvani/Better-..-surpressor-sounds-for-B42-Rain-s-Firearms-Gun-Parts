@@ -1,0 +1,48 @@
+module Base
+{
+
+	sound 9mmSuppressed
+	{
+		category = Item,
+		maxInstancesPerEmitter = 2,
+		clip
+		{
+			file = media/sound/9mmSuppressed.mp3,
+			distanceMax = 17,
+		}
+	}
+
+	sound 223556Suppressed
+	{
+		category = Item,
+		maxInstancesPerEmitter = 2,
+		clip
+		{
+			file = media/sound/223556Suppressed.mp3,
+			distanceMax = 22,
+		}
+	}
+
+	sound 308762Suppressed
+	{
+		category = Item,
+		maxInstancesPerEmitter = 2,
+		clip
+		{
+			file = media/sound/308762Suppressed.mp3,
+			distanceMax = 25,
+		}
+	}
+
+	sound 12gSuppressed
+	{
+		category = Item,
+		maxInstancesPerEmitter = 2,
+		clip
+		{
+			file = media/sound/12gSuppressed.mp3,
+			distanceMax = 80,
+		}
+	}
+
+}
